@@ -1,7 +1,11 @@
 # Virtual Assitant
 *Inspired by Jarvis, It is a voice-based Virtual Assistant  to perform different tasks. It can perform voice-based search results, multi-language translation, open desktop applications, control  volumes, Camera input, reminder, etc.*
 
-#### *Tech Stack*: Python, OpenCv, PyQt5, Wolframe Alpha API.
+#### *Tech Stack*: 
+- Python
+- OpenCv
+- PyQt5
+- Wolframe Alpha API.
 
 ### Problem Statement –
 We already have multiple virtual assistants available in market but we hardly use 
