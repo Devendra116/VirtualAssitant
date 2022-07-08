@@ -7,7 +7,7 @@
 - PyQt5
 - Wolframe Alpha API.
 
-### Problem Statement –
+### Problem Statement 
 We already have multiple virtual assistants available in market but we hardly use 
 them. There are number of people who have issues in voice recognition. These 
 systems can understand English phrases but they fail to recognize in our accent. Our 
@@ -24,6 +24,6 @@ user’s work more easy and definitely enhances user experience.
 - Answer simple commands
 - Perform some Desktop tasks like capture image, play youtube ,give Wikipedia results ,Google search and many more 
 
-### Video Demonstation [link](https://bit.ly/341KUBu)
+### Video Demonstation [Click Me](https://bit.ly/341KUBu)
 
 
